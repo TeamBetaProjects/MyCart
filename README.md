@@ -4,7 +4,7 @@ An E-Commerce shopping application which runs under the Android platform. This a
 
 ## Getting Started
 	
-You can run this Application on your Android phone. To run this Application download this source code and import in android studio. 
+You can run this Application on your Android phone. To run this Application download the source code and import in android studio. 
 
 ### Prerequisites
 	
